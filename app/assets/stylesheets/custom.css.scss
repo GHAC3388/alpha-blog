@@ -42,10 +42,23 @@ $navbar-default-bg: black;
   background-color: black;
 }
 
-.btn-danger:hover {
-  font-size: 1.7em;
-  background-color: red;
+.article-actions {
+  
+  border-top: 1px solid #eaeaea;
+  padding-top: 5px;
 }
+
+.description {
+  margin-top: 0;
+}
+
+.col-xs-8 {
+  float: none;
+}
+// .btn-danger:hover {
+//   font-size: 1.7em;
+//   background-color: red;
+// }
 
 footer {
   margin-top: 45px;
